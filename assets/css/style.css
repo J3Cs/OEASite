@@ -273,7 +273,7 @@ footer {
 
 @media screen and (max-width: 1024px) {
     .logo {
-        background: #010118;
+        background: #d5bd97;
         width: 100%;
         height: 60vh;
         grid-column: 1/-1;
